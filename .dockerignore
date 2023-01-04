@@ -1,0 +1,10 @@
+.git/
+Jenkinsfile
+Dockerfile
+README.md
+database
+docker-compose.yml
+backend/local_settings.py
+api/tests/*
+/logs/
+env
